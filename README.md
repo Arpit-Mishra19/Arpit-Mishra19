@@ -1,4 +1,4 @@
-#### Hello! I’m [Your Name], a dedicated Data Analyst with a strong passion 
+#### Hello! I’m Arpit Mishra, a dedicated Data Analyst with a strong passion 
 #### for turning complex data into actionable insights. With a solid background
 #### in statistical analysis, data visualization, and data manipulation, I thrive
 #### on discovering patterns and providing data-driven solutions that drive business success.
